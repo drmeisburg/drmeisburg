@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Meet Pastor Denise Meisburg, a seasoned professional with a Doctorate in Pastoral Christian Counseling, based at the Living Waters World Outreach Center in Fernandina Beach, Florida. Committed to her community, Pastor Denise offers free Christian counseling services for adults, children, teens, marriages, and families.
+aMeet Pastor Denise Meisburg, a seasoned professional with a Doctorate in Pastoral Christian Counseling, based at the Living Waters World Outreach Center in Fernandina Beach, Florida. Committed to her community, Pastor Denise offers free Christian counseling services for adults, children, teens, marriages, and families.
 
 With an impressive 20-year tenure as a Pastoral Christian counselor, Pastor Denise brings a wealth of experience to her practice. Her educational background includes a Bachelor of Religious Arts in Biblical Studies, a Master of Religious Arts in Clinical Christian Counseling from Jacksonville Theological Seminary, and a Doctorate of Pastoral Counseling from Andersonville Theological Seminary.
 
