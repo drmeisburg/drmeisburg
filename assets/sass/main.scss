@@ -1269,6 +1269,7 @@
 				color: _palette(alt, fg-bold);
 				font-weight: _font(weight-bold);
 				margin: (_size(element-margin) * 0.75) 0 0 0;
+				max-width: 600px;
 			}
 		}
 
