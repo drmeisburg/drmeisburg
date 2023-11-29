@@ -2813,12 +2813,10 @@ input, select, textarea {
 			}
 
 			#header header a {
-				color: blue;
+				color: blue !important;
 			}
 
-				#header header a:hover {
-					color: #ffffff !important;
-				}
+
 
 			#header header h1 {
 				font-size: 3em;
